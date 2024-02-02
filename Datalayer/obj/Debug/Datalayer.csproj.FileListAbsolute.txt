@@ -1,0 +1,17 @@
+C:\Builds\C# Programs\220050062_Thinane_LabEx5\Datalayer\bin\Debug\Datalayer.dll
+C:\Builds\C# Programs\220050062_Thinane_LabEx5\Datalayer\bin\Debug\Datalayer.pdb
+C:\Builds\C# Programs\220050062_Thinane_LabEx5\Datalayer\bin\Debug\MySql.Data.dll
+C:\Builds\C# Programs\220050062_Thinane_LabEx5\Datalayer\bin\Debug\Google.Protobuf.dll
+C:\Builds\C# Programs\220050062_Thinane_LabEx5\Datalayer\bin\Debug\ZstdNet.dll
+C:\Builds\C# Programs\220050062_Thinane_LabEx5\Datalayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Builds\C# Programs\220050062_Thinane_LabEx5\Datalayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Builds\C# Programs\220050062_Thinane_LabEx5\Datalayer\bin\Debug\System.Memory.dll
+C:\Builds\C# Programs\220050062_Thinane_LabEx5\Datalayer\bin\Debug\System.Buffers.dll
+C:\Builds\C# Programs\220050062_Thinane_LabEx5\Datalayer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Builds\C# Programs\220050062_Thinane_LabEx5\Datalayer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Builds\C# Programs\220050062_Thinane_LabEx5\Datalayer\bin\Debug\MySql.Data.xml
+C:\Builds\C# Programs\220050062_Thinane_LabEx5\Datalayer\obj\Debug\Datalayer.csproj.AssemblyReference.cache
+C:\Builds\C# Programs\220050062_Thinane_LabEx5\Datalayer\obj\Debug\Datalayer.csproj.CoreCompileInputs.cache
+C:\Builds\C# Programs\220050062_Thinane_LabEx5\Datalayer\obj\Debug\Datalayer.csproj.CopyComplete
+C:\Builds\C# Programs\220050062_Thinane_LabEx5\Datalayer\obj\Debug\Datalayer.dll
+C:\Builds\C# Programs\220050062_Thinane_LabEx5\Datalayer\obj\Debug\Datalayer.pdb
